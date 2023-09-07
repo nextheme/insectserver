@@ -1,8 +1,2 @@
-
-# dependencies
-/node_modules
-
-# misc
-.DS_Store
-*.pem
-
+/gitignorenode_modules/
+node_modules/

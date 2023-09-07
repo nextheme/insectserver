@@ -1,4 +1,3 @@
-import React from 'react'
 import mongoose, { mongo } from 'mongoose'
 
 const MongoConnect = (uri) => {
